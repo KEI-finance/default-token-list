@@ -1,0 +1,42 @@
+{
+  "name": "KEI finance",
+  "logoURI": "https://assets.kei.fi/logo.png",
+  "keywords": [
+    "defi"
+  ],
+  "timestamp": "2024-02-19T19:07:13.737+00:00",
+  "tokens": [
+    {
+      "chainId": 42161,
+      "address": "0x6ab707Aca953eDAeFBc4fD23bA73294241490620",
+      "name": "Aave Arbitrum USDT",
+      "symbol": "aArbUSDT",
+      "decimals": 6,
+      "logoURI": "https://arbiscan.io/token/images/aarbusdt_32.png",
+      "keywords": ["aave"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x625E7708f30cA75bfd92586e17077590C60eb4cD",
+      "name": "Aave Arbitrum USDC",
+      "symbol": "aArbUSDC",
+      "decimals": 6,
+      "logoURI": "https://arbiscan.io/token/images/aave_32.png",
+      "keywords": ["aave"]
+    },
+    {
+      "chainId": 42161,
+      "address": "0x82E64f49Ed5EC1bC6e43DAD4FC8Af9bb3A2312EE",
+      "name": "Aave Arbitrum DAI",
+      "symbol": "aArbDAI",
+      "decimals": 18,
+      "logoURI": "https://arbiscan.io/token/images/aarbdai_32.png",
+      "keywords": ["aave"]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
