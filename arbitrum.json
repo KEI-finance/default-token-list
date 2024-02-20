@@ -13,7 +13,7 @@
       "symbol": "aArbUSDT",
       "decimals": 6,
       "logoURI": "https://arbiscan.io/token/images/aarbusdt_32.png",
-      "keywords": ["aave"]
+      "tags": ["aave"]
     },
     {
       "chainId": 42161,
@@ -22,7 +22,7 @@
       "symbol": "aArbUSDC",
       "decimals": 6,
       "logoURI": "https://arbiscan.io/token/images/aave_32.png",
-      "keywords": ["aave"]
+      "tags": ["aave"]
     },
     {
       "chainId": 42161,
@@ -31,7 +31,7 @@
       "symbol": "aArbDAI",
       "decimals": 18,
       "logoURI": "https://arbiscan.io/token/images/aarbdai_32.png",
-      "keywords": ["aave"]
+      "tags": ["aave"]
     }
   ],
   "version": {
