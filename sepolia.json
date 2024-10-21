@@ -1,0 +1,55 @@
+{
+  "name": "KEI finance",
+  "logoURI": "https://assets.kei.fi/logo.png",
+  "keywords": [
+    "defi"
+  ],
+  "timestamp": "2024-10-21T19:07:13.737+00:00",
+  "tokens": [
+    {
+      "chainId": 11155111,
+      "address": "0x92f3b59a79bff5dc60c0d59ea13a44d082b2bdfc",
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/7598/standard/wrapped_bitcoin_wbtc.png"
+    },
+    {
+      "chainId": 11155111,
+      "address": "0x7b79995e5f793A07Bc00c21412e50Ecae098E7f9",
+      "name": "Wrapped Ethereum",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/2518/standard/weth.png"
+    },
+    {
+      "chainId": 11155111,
+      "address": "0x94a9D9AC8a22534E3FaCa9F4e7F2E2cf85d5E4C8",
+      "name": "Circle USD",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/6319/standard/usdc.png"
+    },
+    {
+      "chainId": 11155111,
+      "address": "0xaA8E23Fb1079EA71e0a56F48a2aA51851D8433D0",
+      "name": "Tether",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://assets.coingecko.com/coins/images/325/standard/Tether.png"
+    },
+    {
+      "chainId": 11155111,
+      "address": "0x0f067d6F9AcE8FCF68245ea86009B7D221e981D4",
+      "name": "KEI finance",
+      "symbol": "KEI",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/29840/standard/200x200.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
